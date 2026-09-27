@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: lightcyan;
+}
+h1 {
+    color: darkcyan;
+    font-size: 50px;
+}
+
+    button {
+    padding: 10px 130px;
+    font-size: 18px;
+    background-color: lightskyblue;
+    color: black;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    
+}
